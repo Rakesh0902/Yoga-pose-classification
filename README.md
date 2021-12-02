@@ -4,6 +4,8 @@
 
 ## Image Files above yoga poses:
 
-p.jpg - plank pose
-w.jpg - warrior pose
-g.jpg - goddess pose
+#p.jpg - plank pose
+#w.jpg - warrior pose
+#g.jpg - goddess pose
+
+# ygg16.h5 file link :  https://drive.google.com/file/d/1VmvrcQiF3hEUf6JHyMXcMWj8g1Uz9yEg/view?usp=sharing
